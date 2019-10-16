@@ -1,4 +1,6 @@
-### Project setup
+### Basic blog post webpage created using Django framework
+
+#### Initial setup
 
 1. Create a virtual environment in your project folder using the command - python3 -m venv virtualenvironmentname
 2. Source the virtual env using the command - source virtualenvironmentname/bin/activate
