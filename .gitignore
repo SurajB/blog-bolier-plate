@@ -2,8 +2,7 @@
 *~
 __pycache__
 .env
-venv
 db.sqlite3
 /static
 .DS_Store
-pass.txt
+.pass.txt
